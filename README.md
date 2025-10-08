@@ -12,4 +12,4 @@ Currently a researcher at Northeastern University, working on environmental moni
 
 ### Recent Projects
 
-- **[[cyclist-census](https://github.com/jcruz-ferreyra/cyclist-census)](link)** - Computer vision project comprising detection and classification tasks.
+- **[cyclist-census](https://github.com/jcruz-ferreyra/cyclist-census)** - computer vision project comprising detection and classification tasks.
