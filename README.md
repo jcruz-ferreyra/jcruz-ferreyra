@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Juan
 
-<!--
-**jcruz-ferreyra/jcruz-ferreyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I find insights in data to reshape how we understand urban environments. My work focuses on using data science to solve complex urban challenges—uncovering patterns that drive smarter cities and more efficient systems.
 
-Here are some ideas to get you started:
+Currently a researcher at Northeastern University, working on environmental monitoring and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How My Repos Are Organized
+
+**`courses-*`** repositories are from courses I'm currently taking or course projects I found interesting enough to keep public.
+
+**`utils-*`** repositories are simple scripts that come in handy at various moments—tools I like to have at hand just in case.
+
+### Recent Projects
+
+- **[cyclist-census](link)** - Brief description of what it does
