@@ -24,4 +24,4 @@ Currently a researcher at Northeastern University, working on environmental moni
 
 ### Let's Connect
 
-📧 [your.email@northeastern.edu] • 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+💼 [LinkedIn](www.linkedin.com/in/jcruz-ferreyra)
